@@ -1,0 +1,4 @@
+วิธีแก้ติดตั้ง java ไม่ได้ 
+
+โหลดไฟล์ zip ได้จาก : https://drive.google.com/file/d/1mn0sIBlssXigAPhQGifC_qvj8VaSrGT1/view?usp=sharing
+แตกไฟล์ Java.zip แล้วย้ายไปที่       C:\Program Files\            จากนั้นกดรันได้ปกติเลย
